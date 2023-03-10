@@ -8,8 +8,8 @@ This is a simple, interactive note taker web app that uses Express.js in the bac
 
 This is what the app should look like
 
-![Deployed App Screenshot](./screenshots/ss.png)
-
+![Deployed App Screenshot 1](./screenshots/ss1.png)
+![Deployed App Screenshot 2](./screenshots/ss2.png)
 ## How to Contribute <a name="contribute"/>
 
 You can create a pull request or email me! 
